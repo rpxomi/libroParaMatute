@@ -5,6 +5,6 @@
   </li>
 
   <li>
-    <a target="_blank" href="#">JavaScript & jQuery</a>
+    <a href="#" download>JavaScript & jQuery</a>
   </li>
 </ul>
